@@ -1,0 +1,4 @@
+paths:
+  model: "D:/Workspace/Machine_Learning/Supervised_Learning/Regression/Laptop_Price_Prediction/model"
+  data: "D:/Workspace/Machine_Learning/Supervised_Learning/Regression/Laptop_Price_Prediction/data"
+  figures: "D:/Workspace/Machine_Learning/Supervised_Learning/Regression/Laptop_Price_Prediction/figure"
